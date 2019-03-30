@@ -3,6 +3,7 @@
 /.gradle/
 /.settings/
 /.vscode/settings.json
+/.vscode/
 /bin/
 /build/
 /gradle/
